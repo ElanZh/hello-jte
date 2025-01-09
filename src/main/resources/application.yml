@@ -1,6 +1,7 @@
 gg:
   jte:
-    development-mode: true
+    development-mode: false
+    usePrecompiledTemplates: true
 spring:
   application:
     name: demo

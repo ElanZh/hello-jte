@@ -46,6 +46,12 @@
 		</dependency>
 		<dependency>
 			<groupId>gg.jte</groupId>
+			<artifactId>jte-kotlin</artifactId>
+			<version>3.1.12</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>gg.jte</groupId>
 			<artifactId>jte-spring-boot-starter-3</artifactId>
 			<version>3.1.12</version>
 		</dependency>
